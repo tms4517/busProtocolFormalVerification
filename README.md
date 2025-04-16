@@ -19,6 +19,7 @@ The figure below depicts this.
 
 ## Bus protocol
 
+TODO
 
 ## TB
 
